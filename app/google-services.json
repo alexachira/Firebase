@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "887314207115",
+    "firebase_url": "https://fireapp-28235.firebaseio.com",
+    "project_id": "fireapp-28235",
+    "storage_bucket": "fireapp-28235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887314207115:android:60e9d4662ce53256",
+        "android_client_info": {
+          "package_name": "reen.com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887314207115-i0egeiqlvgfmdo3ck9ubrqbgo8v6ksj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUGvWtsBhyDmEpy3Xc6ASKgJhKcK_MoQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"}
